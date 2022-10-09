@@ -1,0 +1,14 @@
+.header-box {
+    width: 1200px;
+    margin: 7% 14%;
+}
+#animal-info p {
+    padding: 1% 2%;
+    border-bottom: 1px solid #ccc;
+}
+button#btn {
+    padding: 1%;
+    color: #fff;
+    background: black;
+    border-radius: 20px;
+}
